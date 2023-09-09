@@ -1,1 +1,3 @@
 CCTV-1,https://cntv.sbs/tv?auth=2309081833&id=cctv1
+douyu,https://openhls-tct.douyucdn2.cn/dyliveflv1/36252rt3pSdsXfdT_900p.m3u8?txSecret=a6745a1321ffff4530900ca525482365&txTime=64fcb1c4&token=h5-douyu-0-36252-e6e73dff4ae43b36e7d0e41be35616c5&did=00000003333&origin=tct&vhost=play1&sid=362520830
+
